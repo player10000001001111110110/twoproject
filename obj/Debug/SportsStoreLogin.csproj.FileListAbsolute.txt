@@ -1,0 +1,15 @@
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin.csproj.AssemblyReference.cache
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\MainWindow.g.cs
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\App.g.cs
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin_MarkupCompile.cache
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin_MarkupCompile.lref
+Z:\VisualStudio\MyProject\SportsStoreLogin\bin\Debug\SportsStoreLogin.exe.config
+Z:\VisualStudio\MyProject\SportsStoreLogin\bin\Debug\SportsStoreLogin.exe
+Z:\VisualStudio\MyProject\SportsStoreLogin\bin\Debug\SportsStoreLogin.pdb
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\MainWindow.baml
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin.g.resources
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin.Properties.Resources.resources
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin.csproj.GenerateResource.cache
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin.csproj.CoreCompileInputs.cache
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin.exe
+Z:\VisualStudio\MyProject\SportsStoreLogin\obj\Debug\SportsStoreLogin.pdb
